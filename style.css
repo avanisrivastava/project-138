@@ -1,0 +1,19 @@
+body
+{
+background-size:cover;
+}
+
+.heading{
+    width: 100%;
+    margin: 0%;
+    float: left;
+}
+
+.heading button{
+    float: right;
+    border: 3px solid pink;
+}
+
+.heading h3{
+    display: inline;
+}
